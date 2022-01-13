@@ -1,6 +1,6 @@
-git add header/rectangle.hpp
-git add src/rectangle.cpp
-git add src/main1.cpp
-git add src/new_main.cpp
-git add CMakeLists.txt
-git add .gitignore
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+c-echo
